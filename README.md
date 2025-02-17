@@ -126,5 +126,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to [Groq AI](https://groq.com) for the API powering the chatbot.
 - Thanks to [OpenCV](https://opencv.org) and [Face Recognition](https://github.com/ageitgey/face-recognition) for the face recognition functionality.
 
----
+--- 
+
+
+In This u can create a folder name is known_faces to store the data image of an login and registered user 
 
