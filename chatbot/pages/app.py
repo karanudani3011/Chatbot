@@ -6,7 +6,7 @@ from streamlit_extras.switch_page_button import switch_page
 # Set page config
 st.set_page_config(page_icon="🤖", layout="centered")
 
-API_KEY = "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"
+API_KEY = "api key"
 API_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
 def fetch_groq_response(prompt):
